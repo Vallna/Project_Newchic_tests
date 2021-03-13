@@ -1,0 +1,7 @@
+venv
+.idea
+_pycache__
+*__pycache__*
+*.idea*
+*.pyc
+orange_products_screenshot.png
